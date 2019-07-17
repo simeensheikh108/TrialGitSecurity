@@ -1,2 +1,2 @@
 
-echo "hi-bye"
+echo "try"
